@@ -2,3 +2,6 @@ git init
 
 second modified
 three modified
+
+stage 
+
