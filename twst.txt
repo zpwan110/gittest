@@ -2,6 +2,4 @@ git init
 
 second modified
 three modified
-kkjhsdk 
-sadaksgjk 
-asdjhk 
+remote modified
