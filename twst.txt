@@ -5,15 +5,14 @@ three modified
 remote modified
 
 add update overrid
-<<<<<<< HEAD
 add modified 
 this is a change for master
 紧急修复线上bug
 
-=======
 add modified
 this is dev branch
 
 fixed a bug 
  
->>>>>>> dev
+merge master and dev
+
