@@ -12,4 +12,5 @@ merge master and dev
 this is dev branch
 merge  hotfix and dev
 
+master change and another branch commit
 
