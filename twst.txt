@@ -22,3 +22,6 @@ origin dev  has change
  
 merge master
 
+dev 1.0 change
+
+
