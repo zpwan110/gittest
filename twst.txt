@@ -11,4 +11,6 @@ this is dev branch
 merge master and dev
 this is a hot fix 
 hotfix  has change
+this is dev branch
+merge  hotfix and dev
 
